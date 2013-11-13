@@ -30,12 +30,17 @@ Other Required Software:
 Now to the source:
 
 $ mkdir -p ~/bin
+
 $ mkdir -p ~/android/system
+
 $ curl http://commondatastorage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+
 $ chmod a+x ~/bin/repo (Reboot is required after this)
 
 $ cd ~/android/system/
+
 $ repo init -u git://github.com/CyanogenMod/android.git -b cm-11.0
+
 $ repo sync -j16
 
 This takes a while, you have time to make coffee, etc.
@@ -44,6 +49,7 @@ Some last things to do before we begin to compile.
 Create a new dir called themes.
 
 $ cd ~/android/system/vendor/tmobile
+
 $ mkdir themes
 
 Put the your theme folder in /themes and if you have downloaded my TEMPLATE THEME rename the folder to Template
@@ -51,12 +57,15 @@ Put the your theme folder in /themes and if you have downloaded my TEMPLATE THEM
 Open terminal:
 
 $ cd ~/android/system/
+
 $ . build/envsetup.sh
+
 $ lunch   "then I choice from the list with a number, number 1 for a generic build"
+
 $ make -j8 template
 
 All in the theme is stock cm-11.0, I still have a little left to do, but the template works.
 
-ENJOY :)
+- ENJOY :)
 
 Esa Laukkanen <ele.linux@gmail.com>
