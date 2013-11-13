@@ -60,7 +60,7 @@ $ cd ~/android/system/
 
 $ . build/envsetup.sh
 
-$ lunch   "then choice from the list with a number, number 1 for a generic build"
+$ lunch   "then choose from the list with a number, number 1 for a generic build"
 
 $ make -j8 template
 
