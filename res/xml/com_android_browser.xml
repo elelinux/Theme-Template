@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2013 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2013 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- color -->
+    <item name="white">@color/com_android_browser_white</item>
+    <item name="black">@color/com_android_browser_black</item>
+    <item name="bookmarkWidgetHeader">@color/com_android_browser_bookmarkWidgetHeader</item>
+    <item name="bookmarkWidgetDivider">@color/com_android_browser_bookmarkWidgetDivider</item>
+    <item name="bookmarkWidgetItemBackground">@color/com_android_browser_bookmarkWidgetItemBackground</item>
+    <item name="bookmarkWidgetFolderBackground">@color/com_android_browser_bookmarkWidgetFolderBackground</item>
+    <item name="bookmarkWidgetFaviconBackground">@color/com_android_browser_bookmarkWidgetFaviconBackground</item>
+    <item name="bookmarkListFaviconBackground">@color/com_android_browser_bookmarkListFaviconBackground</item>
+    <item name="tabFaviconBackground">@color/com_android_browser_tabFaviconBackground</item>
+    <item name="tabFocusHighlight">@color/com_android_browser_tabFocusHighlight</item>
+    <item name="qcMenuBackground">@color/com_android_browser_qcMenuBackground</item>
+    <item name="qc_normal">@color/com_android_browser_qc_normal</item>
+    <item name="qc_selected">@color/com_android_browser_qc_selected</item>
+    <item name="qc_sub">@color/com_android_browser_qc_sub</item>
+    <item name="qc_tab_nr">@color/com_android_browser_qc_tab_nr</item>
+    <item name="tabViewTitleBackground">@color/com_android_browser_tabViewTitleBackground</item>
+    <item name="navtab_bg">@color/com_android_browser_navtab_bg</item>
+
+<!-- style -->
+
+<!-- drawable-nodpi -->
+<item name="drawable/bg_browsertabs">@drawable/com_android_browser_bg_browsertabs</item>
+<item name="drawable/bg_urlbar">@drawable/com_android_browser_bg_urlbar</item>
+
+<!-- mipmap -->
+<item name="mipmap/ic_launcher_browser">@mipmap/com_android_browser_ic_launcher_browser</item>
+<item name="mipmap/ic_launcher_shortcut_browser_bookmark">@mipmap/com_android_browser_ic_launcher_shortcut_browser_bookmark</item>
+
+<!-- drawable -->
+<item name="drawable/app_web_browser_sm">@drawable/com_android_browser_app_web_browser_sm</item>
+<item name="drawable/bg_bookmarks_widget_holo">@drawable/com_android_browser_bg_bookmarks_widget_holo</item>
+<item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/com_android_browser_bookmarks_widget_thumb_selector_focused</item>
+<item name="drawable/bookmarks_widget_thumb_selector_longpressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_longpressed</item>
+<item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_pressed</item>
+<item name="drawable/border_thumb_bookmarks_widget_holo">@drawable/com_android_browser_border_thumb_bookmarks_widget_holo</item>
+<item name="drawable/browser_thumbnail">@drawable/com_android_browser_browser_thumbnail</item>
+<item name="drawable/browser_widget_preview">@drawable/com_android_browser_browser_widget_preview</item>
+<item name="drawable/browsertab_add">@drawable/com_android_browser_browsertab_add</item>
+<item name="drawable/browsertab_add_focused">@drawable/com_android_browser_browsertab_add_focused</item>
+<item name="drawable/browsertab_inactive">@drawable/com_android_browser_browsertab_inactive</item>
+<item name="drawable/default_video_poster">@drawable/com_android_browser_default_video_poster</item>
+<item name="drawable/geolocation_permissions_prompt_background">@drawable/com_android_browser_geolocation_permissions_prompt_background</item>
+<item name="drawable/ic_add_string">@drawable/com_android_browser_ic_add_string</item>
+<item name="drawable/ic_back_disabled_holo_dark">@drawable/com_android_browser_ic_back_disabled_holo_dark</item>
+<item name="drawable/ic_back_hierarchy_holo_dark">@drawable/com_android_browser_ic_back_hierarchy_holo_dark</item>
+<item name="drawable/ic_back_holo_dark">@drawable/com_android_browser_ic_back_holo_dark</item>
+<item name="drawable/ic_bookmark_off_holo_dark">@drawable/com_android_browser_ic_bookmark_off_holo_dark</item>
+<item name="drawable/ic_bookmark_on_holo_dark">@drawable/com_android_browser_ic_bookmark_on_holo_dark</item>
+<item name="drawable/ic_bookmark_widget_bookmark_holo_dark">@drawable/com_android_browser_ic_bookmark_widget_bookmark_holo_dark</item>
+<item name="drawable/ic_bookmarks_history_holo_dark">@drawable/com_android_browser_ic_bookmarks_history_holo_dark</item>
+<item name="drawable/ic_bookmarks_holo_dark">@drawable/com_android_browser_ic_bookmarks_holo_dark</item>
+<item name="drawable/ic_close_window_holo_dark">@drawable/com_android_browser_ic_close_window_holo_dark</item>
+<item name="drawable/ic_desktop_holo_dark">@drawable/com_android_browser_ic_desktop_holo_dark</item>
+<item name="drawable/ic_dialog_browser_certificate_partially_secure">@drawable/com_android_browser_ic_dialog_browser_certificate_partially_secure</item>
+<item name="drawable/ic_dialog_browser_certificate_secure">@drawable/com_android_browser_ic_dialog_browser_certificate_secure</item>
+<item name="drawable/ic_dialog_browser_security_bad">@drawable/com_android_browser_ic_dialog_browser_security_bad</item>
+<item name="drawable/ic_dialog_browser_security_good">@drawable/com_android_browser_ic_dialog_browser_security_good</item>
+<item name="drawable/ic_folder_holo_dark">@drawable/com_android_browser_ic_folder_holo_dark</item>
+<item name="drawable/ic_forward_disabled_holo_dark">@drawable/com_android_browser_ic_forward_disabled_holo_dark</item>
+<item name="drawable/ic_forward_holo_dark">@drawable/com_android_browser_ic_forward_holo_dark</item>
+<item name="drawable/ic_gps_denied_holo_dark">@drawable/com_android_browser_ic_gps_denied_holo_dark</item>
+<item name="drawable/ic_gps_on_holo_dark">@drawable/com_android_browser_ic_gps_on_holo_dark</item>
+<item name="drawable/ic_history_holo_dark">@drawable/com_android_browser_ic_history_holo_dark</item>
+<item name="drawable/ic_home_holo_dark">@drawable/com_android_browser_ic_home_holo_dark</item>
+<item name="drawable/ic_home_info_holo_dark">@drawable/com_android_browser_ic_home_info_holo_dark</item>
+<item name="drawable/ic_incognito_holo_dark">@drawable/com_android_browser_ic_incognito_holo_dark</item>
+<item name="drawable/ic_list_data_large">@drawable/com_android_browser_ic_list_data_large</item>
+<item name="drawable/ic_list_data_off">@drawable/com_android_browser_ic_list_data_off</item>
+<item name="drawable/ic_list_data_small">@drawable/com_android_browser_ic_list_data_small</item>
+<item name="drawable/ic_menu_new_window">@drawable/com_android_browser_ic_menu_new_window</item>
+<item name="drawable/ic_menu_overflow">@drawable/com_android_browser_ic_menu_overflow</item>
+<item name="drawable/ic_mobile">@drawable/com_android_browser_ic_mobile</item>
+<item name="drawable/ic_new_incognito_holo_dark">@drawable/com_android_browser_ic_new_incognito_holo_dark</item>
+<item name="drawable/ic_new_window_holo_dark">@drawable/com_android_browser_ic_new_window_holo_dark</item>
+<item name="drawable/ic_querybuilder_disabled">@drawable/com_android_browser_ic_querybuilder_disabled</item>
+<item name="drawable/ic_querybuilder_normal">@drawable/com_android_browser_ic_querybuilder_normal</item>
+<item name="drawable/ic_querybuilder_pressed">@drawable/com_android_browser_ic_querybuilder_pressed</item>
+<item name="drawable/ic_refresh_holo_dark">@drawable/com_android_browser_ic_refresh_holo_dark</item>
+<item name="drawable/ic_search_category_bookmark">@drawable/com_android_browser_ic_search_category_bookmark</item>
+<item name="drawable/ic_search_category_browser">@drawable/com_android_browser_ic_search_category_browser</item>
+<item name="drawable/ic_search_category_history">@drawable/com_android_browser_ic_search_category_history</item>
+<item name="drawable/ic_search_category_suggest">@drawable/com_android_browser_ic_search_category_suggest</item>
+<item name="drawable/ic_search_holo_dark">@drawable/com_android_browser_ic_search_holo_dark</item>
+<item name="drawable/ic_secure_holo_dark">@drawable/com_android_browser_ic_secure_holo_dark</item>
+<item name="drawable/ic_secure_partial_holo_dark">@drawable/com_android_browser_ic_secure_partial_holo_dark</item>
+<item name="drawable/ic_settings_holo_dark">@drawable/com_android_browser_ic_settings_holo_dark</item>
+<item name="drawable/ic_share_holo_dark">@drawable/com_android_browser_ic_share_holo_dark</item>
+<item name="drawable/ic_stop_holo_dark">@drawable/com_android_browser_ic_stop_holo_dark</item>
+<item name="drawable/ic_tab_close">@drawable/com_android_browser_ic_tab_close</item>
+<item name="drawable/ic_voice_search_holo_dark">@drawable/com_android_browser_ic_voice_search_holo_dark</item>
+<item name="drawable/ic_web_holo_dark">@drawable/com_android_browser_ic_web_holo_dark</item>
+<item name="drawable/ic_windows_holo_dark">@drawable/com_android_browser_ic_windows_holo_dark</item>
+<item name="drawable/magnifying_glass">@drawable/com_android_browser_magnifying_glass</item>
+<item name="drawable/nav_tab_bg">@drawable/com_android_browser_nav_tab_bg</item>
+<item name="drawable/overlay_url_bookmark_widget_holo">@drawable/com_android_browser_overlay_url_bookmark_widget_holo</item>
+<item name="drawable/progress">@drawable/com_android_browser_progress</item>
+<item name="drawable/qc_background_normal">@drawable/com_android_browser_qc_background_normal</item>
+<item name="drawable/textfield_active_holo_dark">@drawable/com_android_browser_textfield_active_holo_dark</item>
+<item name="drawable/textfield_default_holo_dark">@drawable/com_android_browser_textfield_default_holo_dark</item>
+<item name="drawable/thumb_bookmark_widget_folder_back_holo">@drawable/com_android_browser_thumb_bookmark_widget_folder_back_holo</item>
+<item name="drawable/thumb_bookmark_widget_folder_holo">@drawable/com_android_browser_thumb_bookmark_widget_folder_holo</item>
+<item name="drawable/thumbnail_bookmarks_widget_no_bookmark_holo">@drawable/com_android_browser_thumbnail_bookmarks_widget_no_bookmark_holo</item>
+<item name="drawable/trashcan">@drawable/com_android_browser_trashcan</item>
+</resource-redirections>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2013 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2013 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- color -->
+
+<!-- style -->
+
+<!-- mipmap -->
+<item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_common_ic_launcher_contacts</item>
+
+<!-- drawable -->
+<item name="drawable/badge_action_call">@drawable/com_android_contacts_common_badge_action_call</item>
+<item name="drawable/badge_action_sms">@drawable/com_android_contacts_common_badge_action_sms</item>
+<item name="drawable/ic_add_contact_holo_dark">@drawable/com_android_contacts_common_ic_add_contact_holo_dark</item>
+<item name="drawable/ic_add_person_dk">@drawable/com_android_contacts_common_ic_add_person_dk</item>
+<item name="drawable/ic_contact_picture_180_holo_dark">@drawable/com_android_contacts_common_ic_contact_picture_180_holo_dark</item>
+<item name="drawable/ic_contact_picture_180_holo_light">@drawable/com_android_contacts_common_ic_contact_picture_180_holo_light</item>
+<item name="drawable/ic_contact_picture_holo_dark">@drawable/com_android_contacts_common_ic_contact_picture_holo_dark</item>
+<item name="drawable/ic_contact_picture_holo_light">@drawable/com_android_contacts_common_ic_contact_picture_holo_light</item>
+<item name="drawable/ic_contacts_holo_dark">@drawable/com_android_contacts_common_ic_contacts_holo_dark</item>
+<item name="drawable/ic_divider_dashed_holo_dark">@drawable/com_android_contacts_common_ic_divider_dashed_holo_dark</item>
+<item name="drawable/ic_favorite_off_lt">@drawable/com_android_contacts_common_ic_favorite_off_lt</item>
+<item name="drawable/ic_favorite_on_lt">@drawable/com_android_contacts_common_ic_favorite_on_lt</item>
+<item name="drawable/ic_menu_back">@drawable/com_android_contacts_common_ic_menu_back</item>
+<item name="drawable/ic_menu_group_dk">@drawable/com_android_contacts_common_ic_menu_group_dk</item>
+<item name="drawable/ic_menu_group_lt">@drawable/com_android_contacts_common_ic_menu_group_lt</item>
+<item name="drawable/ic_menu_person_dk">@drawable/com_android_contacts_common_ic_menu_person_dk</item>
+<item name="drawable/ic_menu_person_lt">@drawable/com_android_contacts_common_ic_menu_person_lt</item>
+<item name="drawable/ic_menu_remove_field_holo_light">@drawable/com_android_contacts_common_ic_menu_remove_field_holo_light</item>
+<item name="drawable/ic_menu_settings_holo_light">@drawable/com_android_contacts_common_ic_menu_settings_holo_light</item>
+<item name="drawable/ic_menu_star_dk">@drawable/com_android_contacts_common_ic_menu_star_dk</item>
+<item name="drawable/ic_menu_star_holo_light">@drawable/com_android_contacts_common_ic_menu_star_holo_light</item>
+<item name="drawable/ic_menu_star_lt">@drawable/com_android_contacts_common_ic_menu_star_lt</item>
+<item name="drawable/ic_overflow_menu">@drawable/com_android_contacts_common_ic_overflow_menu</item>
+<item name="drawable/ic_search_dk">@drawable/com_android_contacts_common_ic_search_dk</item>
+<item name="drawable/ic_text_holo_dark">@drawable/com_android_contacts_common_ic_text_holo_dark</item>
+<item name="drawable/ic_text_holo_light">@drawable/com_android_contacts_common_ic_text_holo_light</item>
+<item name="drawable/list_activated_holo">@drawable/com_android_contacts_common_list_activated_holo</item>
+<item name="drawable/list_background_holo">@drawable/com_android_contacts_common_list_background_holo</item>
+<item name="drawable/list_focused_holo">@drawable/com_android_contacts_common_list_focused_holo</item>
+<item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_common_list_section_divider_holo_custom</item>
+<item name="drawable/list_title_holo">@drawable/com_android_contacts_common_list_title_holo</item>
+<item name="drawable/unknown_source">@drawable/com_android_contacts_common_unknown_source</item>
+</resource-redirections>

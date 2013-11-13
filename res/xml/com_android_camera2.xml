@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2013 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2013 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- color -->
+
+<!-- style -->
+
+<!-- mipmap -->
+<item name="mipmap/ic_launcher_camera">@mipmap/com_android_camera2_ic_launcher_camera</item>
+<item name="mipmap/ic_launcher_gallery">@mipmap/com_android_camera2_ic_launcher_gallery</item>
+
+<!-- drawable -->
+<item name="drawable/actionbar_translucent">@drawable/com_android_camera2_actionbar_translucent</item>
+<item name="drawable/btn_shutter_default">@drawable/com_android_camera2_btn_shutter_default</item>
+<item name="drawable/btn_shutter_default_disabled">@drawable/com_android_camera2_btn_shutter_default_disabled</item>
+<item name="drawable/btn_shutter_pressed">@drawable/com_android_camera2_btn_shutter_pressed</item>
+<item name="drawable/btn_shutter_pressed_disabled">@drawable/com_android_camera2_btn_shutter_pressed_disabled</item>
+<item name="drawable/btn_shutter_recording">@drawable/com_android_camera2_btn_shutter_recording</item>
+<item name="drawable/btn_shutter_video_default">@drawable/com_android_camera2_btn_shutter_video_default</item>
+<item name="drawable/btn_shutter_video_pressed">@drawable/com_android_camera2_btn_shutter_video_pressed</item>
+<item name="drawable/btn_shutter_video_recording">@drawable/com_android_camera2_btn_shutter_video_recording</item>
+<item name="drawable/btn_video_shutter_recording_holo">@drawable/com_android_camera2_btn_video_shutter_recording_holo</item>
+<item name="drawable/btn_video_shutter_recording_pressed_holo">@drawable/com_android_camera2_btn_video_shutter_recording_pressed_holo</item>
+<item name="drawable/camera_crop">@drawable/com_android_camera2_camera_crop</item>
+<item name="drawable/ic_btn_shutter_retake">@drawable/com_android_camera2_ic_btn_shutter_retake</item>
+<item name="drawable/ic_effects_holo_light">@drawable/com_android_camera2_ic_effects_holo_light</item>
+<item name="drawable/ic_effects_holo_light_xlarge">@drawable/com_android_camera2_ic_effects_holo_light_xlarge</item>
+<item name="drawable/ic_exposure_0">@drawable/com_android_camera2_ic_exposure_0</item>
+<item name="drawable/ic_exposure_holo_light">@drawable/com_android_camera2_ic_exposure_holo_light</item>
+<item name="drawable/ic_exposure_n1">@drawable/com_android_camera2_ic_exposure_n1</item>
+<item name="drawable/ic_exposure_n2">@drawable/com_android_camera2_ic_exposure_n2</item>
+<item name="drawable/ic_exposure_n3">@drawable/com_android_camera2_ic_exposure_n3</item>
+<item name="drawable/ic_exposure_p1">@drawable/com_android_camera2_ic_exposure_p1</item>
+<item name="drawable/ic_exposure_p2">@drawable/com_android_camera2_ic_exposure_p2</item>
+<item name="drawable/ic_exposure_p3">@drawable/com_android_camera2_ic_exposure_p3</item>
+<item name="drawable/ic_flash_auto_holo_light">@drawable/com_android_camera2_ic_flash_auto_holo_light</item>
+<item name="drawable/ic_flash_off_holo_light">@drawable/com_android_camera2_ic_flash_off_holo_light</item>
+<item name="drawable/ic_flash_on_holo_light">@drawable/com_android_camera2_ic_flash_on_holo_light</item>
+<item name="drawable/ic_gallery_play">@drawable/com_android_camera2_ic_gallery_play</item>
+<item name="drawable/ic_gallery_play_big">@drawable/com_android_camera2_ic_gallery_play_big</item>
+<item name="drawable/ic_hdr">@drawable/com_android_camera2_ic_hdr</item>
+<item name="drawable/ic_hdr_off">@drawable/com_android_camera2_ic_hdr_off</item>
+<item name="drawable/ic_hdr_plus_disabled">@drawable/com_android_camera2_ic_hdr_plus_disabled</item>
+<item name="drawable/ic_hdr_plus_disabled_pressed">@drawable/com_android_camera2_ic_hdr_plus_disabled_pressed</item>
+<item name="drawable/ic_hdr_plus_normal">@drawable/com_android_camera2_ic_hdr_plus_normal</item>
+<item name="drawable/ic_hdr_plus_normal_pressed">@drawable/com_android_camera2_ic_hdr_plus_normal_pressed</item>
+<item name="drawable/ic_imagesize">@drawable/com_android_camera2_ic_imagesize</item>
+<item name="drawable/ic_indicator_ev_0">@drawable/com_android_camera2_ic_indicator_ev_0</item>
+<item name="drawable/ic_indicator_ev_n1">@drawable/com_android_camera2_ic_indicator_ev_n1</item>
+<item name="drawable/ic_indicator_ev_n2">@drawable/com_android_camera2_ic_indicator_ev_n2</item>
+<item name="drawable/ic_indicator_ev_n3">@drawable/com_android_camera2_ic_indicator_ev_n3</item>
+<item name="drawable/ic_indicator_ev_p1">@drawable/com_android_camera2_ic_indicator_ev_p1</item>
+<item name="drawable/ic_indicator_ev_p2">@drawable/com_android_camera2_ic_indicator_ev_p2</item>
+<item name="drawable/ic_indicator_ev_p3">@drawable/com_android_camera2_ic_indicator_ev_p3</item>
+<item name="drawable/ic_indicator_flash_auto">@drawable/com_android_camera2_ic_indicator_flash_auto</item>
+<item name="drawable/ic_indicator_flash_off">@drawable/com_android_camera2_ic_indicator_flash_off</item>
+<item name="drawable/ic_indicator_flash_on">@drawable/com_android_camera2_ic_indicator_flash_on</item>
+<item name="drawable/ic_indicator_hdr_plus_on">@drawable/com_android_camera2_ic_indicator_hdr_plus_on</item>
+<item name="drawable/ic_indicator_loc_off">@drawable/com_android_camera2_ic_indicator_loc_off</item>
+<item name="drawable/ic_indicator_loc_on">@drawable/com_android_camera2_ic_indicator_loc_on</item>
+<item name="drawable/ic_indicator_sce_hdr">@drawable/com_android_camera2_ic_indicator_sce_hdr</item>
+<item name="drawable/ic_indicator_sce_off">@drawable/com_android_camera2_ic_indicator_sce_off</item>
+<item name="drawable/ic_indicator_sce_on">@drawable/com_android_camera2_ic_indicator_sce_on</item>
+<item name="drawable/ic_indicator_timer_off">@drawable/com_android_camera2_ic_indicator_timer_off</item>
+<item name="drawable/ic_indicator_timer_on">@drawable/com_android_camera2_ic_indicator_timer_on</item>
+<item name="drawable/ic_indicator_wb_cloudy">@drawable/com_android_camera2_ic_indicator_wb_cloudy</item>
+<item name="drawable/ic_indicator_wb_daylight">@drawable/com_android_camera2_ic_indicator_wb_daylight</item>
+<item name="drawable/ic_indicator_wb_fluorescent">@drawable/com_android_camera2_ic_indicator_wb_fluorescent</item>
+<item name="drawable/ic_indicator_wb_off">@drawable/com_android_camera2_ic_indicator_wb_off</item>
+<item name="drawable/ic_indicator_wb_tungsten">@drawable/com_android_camera2_ic_indicator_wb_tungsten</item>
+<item name="drawable/ic_location">@drawable/com_android_camera2_ic_location</item>
+<item name="drawable/ic_location_off">@drawable/com_android_camera2_ic_location_off</item>
+<item name="drawable/ic_menu_cancel_holo_light">@drawable/com_android_camera2_ic_menu_cancel_holo_light</item>
+<item name="drawable/ic_menu_done_holo_light">@drawable/com_android_camera2_ic_menu_done_holo_light</item>
+<item name="drawable/ic_menu_edit_holo_dark">@drawable/com_android_camera2_ic_menu_edit_holo_dark</item>
+<item name="drawable/ic_menu_revert_holo_dark">@drawable/com_android_camera2_ic_menu_revert_holo_dark</item>
+<item name="drawable/ic_menu_savephoto">@drawable/com_android_camera2_ic_menu_savephoto</item>
+<item name="drawable/ic_menu_savephoto_disabled">@drawable/com_android_camera2_ic_menu_savephoto_disabled</item>
+<item name="drawable/ic_menu_tiny_planet">@drawable/com_android_camera2_ic_menu_tiny_planet</item>
+<item name="drawable/ic_pan_border_fast">@drawable/com_android_camera2_ic_pan_border_fast</item>
+<item name="drawable/ic_pan_border_fast_xlarge">@drawable/com_android_camera2_ic_pan_border_fast_xlarge</item>
+<item name="drawable/ic_pan_left_indicator">@drawable/com_android_camera2_ic_pan_left_indicator</item>
+<item name="drawable/ic_pan_left_indicator_fast">@drawable/com_android_camera2_ic_pan_left_indicator_fast</item>
+<item name="drawable/ic_pan_left_indicator_fast_xlarge">@drawable/com_android_camera2_ic_pan_left_indicator_fast_xlarge</item>
+<item name="drawable/ic_pan_left_indicator_xlarge">@drawable/com_android_camera2_ic_pan_left_indicator_xlarge</item>
+<item name="drawable/ic_pan_progression">@drawable/com_android_camera2_ic_pan_progression</item>
+<item name="drawable/ic_pan_progression_xlarge">@drawable/com_android_camera2_ic_pan_progression_xlarge</item>
+<item name="drawable/ic_pan_right_indicator">@drawable/com_android_camera2_ic_pan_right_indicator</item>
+<item name="drawable/ic_pan_right_indicator_fast">@drawable/com_android_camera2_ic_pan_right_indicator_fast</item>
+<item name="drawable/ic_pan_right_indicator_fast_xlarge">@drawable/com_android_camera2_ic_pan_right_indicator_fast_xlarge</item>
+<item name="drawable/ic_pan_right_indicator_xlarge">@drawable/com_android_camera2_ic_pan_right_indicator_xlarge</item>
+<item name="drawable/ic_recording_indicator">@drawable/com_android_camera2_ic_recording_indicator</item>
+<item name="drawable/ic_sce">@drawable/com_android_camera2_ic_sce</item>
+<item name="drawable/ic_sce_action">@drawable/com_android_camera2_ic_sce_action</item>
+<item name="drawable/ic_sce_night">@drawable/com_android_camera2_ic_sce_night</item>
+<item name="drawable/ic_sce_off">@drawable/com_android_camera2_ic_sce_off</item>
+<item name="drawable/ic_sce_party">@drawable/com_android_camera2_ic_sce_party</item>
+<item name="drawable/ic_sce_sunset">@drawable/com_android_camera2_ic_sce_sunset</item>
+<item name="drawable/ic_scn_holo_light">@drawable/com_android_camera2_ic_scn_holo_light</item>
+<item name="drawable/ic_scn_holo_light_xlarge">@drawable/com_android_camera2_ic_scn_holo_light_xlarge</item>
+<item name="drawable/ic_settings_holo_light">@drawable/com_android_camera2_ic_settings_holo_light</item>
+<item name="drawable/ic_snapshot_border">@drawable/com_android_camera2_ic_snapshot_border</item>
+<item name="drawable/ic_snapshot_border_xlarge">@drawable/com_android_camera2_ic_snapshot_border_xlarge</item>
+<item name="drawable/ic_switch_back">@drawable/com_android_camera2_ic_switch_back</item>
+<item name="drawable/ic_switch_camera">@drawable/com_android_camera2_ic_switch_camera</item>
+<item name="drawable/ic_switch_front">@drawable/com_android_camera2_ic_switch_front</item>
+<item name="drawable/ic_switch_pan">@drawable/com_android_camera2_ic_switch_pan</item>
+<item name="drawable/ic_switch_photo_facing_holo_light">@drawable/com_android_camera2_ic_switch_photo_facing_holo_light</item>
+<item name="drawable/ic_switch_photo_facing_holo_light_xlarge">@drawable/com_android_camera2_ic_switch_photo_facing_holo_light_xlarge</item>
+<item name="drawable/ic_switch_photosphere">@drawable/com_android_camera2_ic_switch_photosphere</item>
+<item name="drawable/ic_switch_video">@drawable/com_android_camera2_ic_switch_video</item>
+<item name="drawable/ic_switch_video_facing_holo_light">@drawable/com_android_camera2_ic_switch_video_facing_holo_light</item>
+<item name="drawable/ic_switch_video_facing_holo_light_xlarge">@drawable/com_android_camera2_ic_switch_video_facing_holo_light_xlarge</item>
+<item name="drawable/ic_switcher_menu_indicator">@drawable/com_android_camera2_ic_switcher_menu_indicator</item>
+<item name="drawable/ic_timelapse_none">@drawable/com_android_camera2_ic_timelapse_none</item>
+<item name="drawable/ic_timelapse_none_xlarge">@drawable/com_android_camera2_ic_timelapse_none_xlarge</item>
+<item name="drawable/ic_timer">@drawable/com_android_camera2_ic_timer</item>
+<item name="drawable/ic_video_effects_background_fields_of_wheat_holo">@drawable/com_android_camera2_ic_video_effects_background_fields_of_wheat_holo</item>
+<item name="drawable/ic_video_effects_background_intergalactic_holo">@drawable/com_android_camera2_ic_video_effects_background_intergalactic_holo</item>
+<item name="drawable/ic_video_effects_background_normal_holo_dark">@drawable/com_android_camera2_ic_video_effects_background_normal_holo_dark</item>
+<item name="drawable/ic_video_effects_faces_big_eyes_holo_dark">@drawable/com_android_camera2_ic_video_effects_faces_big_eyes_holo_dark</item>
+<item name="drawable/ic_video_effects_faces_big_mouth_holo_dark">@drawable/com_android_camera2_ic_video_effects_faces_big_mouth_holo_dark</item>
+<item name="drawable/ic_video_effects_faces_big_nose_holo_dark">@drawable/com_android_camera2_ic_video_effects_faces_big_nose_holo_dark</item>
+<item name="drawable/ic_video_effects_faces_small_eyes_holo_dark">@drawable/com_android_camera2_ic_video_effects_faces_small_eyes_holo_dark</item>
+<item name="drawable/ic_video_effects_faces_small_mouth_holo_dark">@drawable/com_android_camera2_ic_video_effects_faces_small_mouth_holo_dark</item>
+<item name="drawable/ic_video_effects_faces_squeeze_holo_dark">@drawable/com_android_camera2_ic_video_effects_faces_squeeze_holo_dark</item>
+<item name="drawable/ic_view_photosphere">@drawable/com_android_camera2_ic_view_photosphere</item>
+<item name="drawable/ic_wb_auto">@drawable/com_android_camera2_ic_wb_auto</item>
+<item name="drawable/ic_wb_cloudy">@drawable/com_android_camera2_ic_wb_cloudy</item>
+<item name="drawable/ic_wb_fluorescent">@drawable/com_android_camera2_ic_wb_fluorescent</item>
+<item name="drawable/ic_wb_incandescent">@drawable/com_android_camera2_ic_wb_incandescent</item>
+<item name="drawable/ic_wb_sunlight">@drawable/com_android_camera2_ic_wb_sunlight</item>
+<item name="drawable/list_divider">@drawable/com_android_camera2_list_divider</item>
+<item name="drawable/list_pressed_holo_light">@drawable/com_android_camera2_list_pressed_holo_light</item>
+<item name="drawable/panel_undo_holo">@drawable/com_android_camera2_panel_undo_holo</item>
+<item name="drawable/placeholder_locked">@drawable/com_android_camera2_placeholder_locked</item>
+<item name="drawable/preview">@drawable/com_android_camera2_preview</item>
+<item name="drawable/switch_bg_focused_holo_dark">@drawable/com_android_camera2_switch_bg_focused_holo_dark</item>
+<item name="drawable/switch_bg_holo_dark">@drawable/com_android_camera2_switch_bg_holo_dark</item>
+<item name="drawable/switch_thumb_activated_holo_dark">@drawable/com_android_camera2_switch_thumb_activated_holo_dark</item>
+<item name="drawable/switch_thumb_disabled_holo_dark">@drawable/com_android_camera2_switch_thumb_disabled_holo_dark</item>
+<item name="drawable/switch_thumb_holo_dark">@drawable/com_android_camera2_switch_thumb_holo_dark</item>
+<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/com_android_camera2_switch_thumb_pressed_holo_dark</item>
+<item name="drawable/toast_frame_holo">@drawable/com_android_camera2_toast_frame_holo</item>
+</resource-redirections>

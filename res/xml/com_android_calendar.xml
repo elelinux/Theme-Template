@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2013 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2013 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- color -->
+
+<!-- style -->
+
+<!-- mipmap -->
+<item name="mipmap/ic_launcher_calendar">@mipmap/com_android_calendar_ic_launcher_calendar</item>
+
+<!-- drawable -->
+<item name="drawable/bg_event_cal_widget_holo">@drawable/com_android_calendar_bg_event_cal_widget_holo</item>
+<item name="drawable/cal_widget_bg">@drawable/com_android_calendar_cal_widget_bg</item>
+<item name="drawable/cal_widget_date_bg">@drawable/com_android_calendar_cal_widget_date_bg</item>
+<item name="drawable/calendar_widget_preview">@drawable/com_android_calendar_calendar_widget_preview</item>
+<item name="drawable/calname_bottom_select_underselect_holo_light">@drawable/com_android_calendar_calname_bottom_select_underselect_holo_light</item>
+<item name="drawable/calname_bottom_select_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_select_underselect_pressed_holo_light</item>
+<item name="drawable/calname_bottom_select_underunselected_holo_light">@drawable/com_android_calendar_calname_bottom_select_underunselected_holo_light</item>
+<item name="drawable/calname_bottom_select_underunselected_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_select_underunselected_pressed_holo_light</item>
+<item name="drawable/calname_bottom_unselected_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_holo_light</item>
+<item name="drawable/calname_bottom_unselected_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_pressed_holo_light</item>
+<item name="drawable/calname_bottom_unselected_underselect_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_underselect_holo_light</item>
+<item name="drawable/calname_bottom_unselected_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_bottom_unselected_underselect_pressed_holo_light</item>
+<item name="drawable/calname_select_underselect_holo_light">@drawable/com_android_calendar_calname_select_underselect_holo_light</item>
+<item name="drawable/calname_select_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_select_underselect_pressed_holo_light</item>
+<item name="drawable/calname_select_underunselected_holo_light">@drawable/com_android_calendar_calname_select_underunselected_holo_light</item>
+<item name="drawable/calname_select_underunselected_pressed_holo_light">@drawable/com_android_calendar_calname_select_underunselected_pressed_holo_light</item>
+<item name="drawable/calname_unselected_holo_light">@drawable/com_android_calendar_calname_unselected_holo_light</item>
+<item name="drawable/calname_unselected_pressed_holo_light">@drawable/com_android_calendar_calname_unselected_pressed_holo_light</item>
+<item name="drawable/calname_unselected_underselect_holo_light">@drawable/com_android_calendar_calname_unselected_underselect_holo_light</item>
+<item name="drawable/calname_unselected_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_unselected_underselect_pressed_holo_light</item>
+<item name="drawable/dayline_minical_holo_light">@drawable/com_android_calendar_dayline_minical_holo_light</item>
+<item name="drawable/event_bg_declined">@drawable/com_android_calendar_event_bg_declined</item>
+<item name="drawable/frame_event_color_cal_widget_holo">@drawable/com_android_calendar_frame_event_color_cal_widget_holo</item>
+<item name="drawable/header_bg_cal_widget_focused_holo">@drawable/com_android_calendar_header_bg_cal_widget_focused_holo</item>
+<item name="drawable/header_bg_cal_widget_normal_holo">@drawable/com_android_calendar_header_bg_cal_widget_normal_holo</item>
+<item name="drawable/header_bg_cal_widget_pressed_holo">@drawable/com_android_calendar_header_bg_cal_widget_pressed_holo</item>
+<item name="drawable/ic_alarm_dark">@drawable/com_android_calendar_ic_alarm_dark</item>
+<item name="drawable/ic_alarm_holo_dark">@drawable/com_android_calendar_ic_alarm_holo_dark</item>
+<item name="drawable/ic_alarm_white">@drawable/com_android_calendar_ic_alarm_white</item>
+<item name="drawable/ic_allday_collapse_large_holo_light">@drawable/com_android_calendar_ic_allday_collapse_large_holo_light</item>
+<item name="drawable/ic_allday_collapse_small_holo_light">@drawable/com_android_calendar_ic_allday_collapse_small_holo_light</item>
+<item name="drawable/ic_allday_expand_large_holo_light">@drawable/com_android_calendar_ic_allday_expand_large_holo_light</item>
+<item name="drawable/ic_allday_expand_small_holo_light">@drawable/com_android_calendar_ic_allday_expand_small_holo_light</item>
+<item name="drawable/ic_call">@drawable/com_android_calendar_ic_call</item>
+<item name="drawable/ic_collapse_large_holo_light">@drawable/com_android_calendar_ic_collapse_large_holo_light</item>
+<item name="drawable/ic_collapse_small_holo_light">@drawable/com_android_calendar_ic_collapse_small_holo_light</item>
+<item name="drawable/ic_colorpicker_swatch_selected">@drawable/com_android_calendar_ic_colorpicker_swatch_selected</item>
+<item name="drawable/ic_colorpicker_swatch_stroke">@drawable/com_android_calendar_ic_colorpicker_swatch_stroke</item>
+<item name="drawable/ic_contact_picture">@drawable/com_android_calendar_ic_contact_picture</item>
+<item name="drawable/ic_expand_large_holo_light">@drawable/com_android_calendar_ic_expand_large_holo_light</item>
+<item name="drawable/ic_expand_small_holo_light">@drawable/com_android_calendar_ic_expand_small_holo_light</item>
+<item name="drawable/ic_history_holo_light">@drawable/com_android_calendar_ic_history_holo_light</item>
+<item name="drawable/ic_map">@drawable/com_android_calendar_ic_map</item>
+<item name="drawable/ic_menu_add_event_holo_light">@drawable/com_android_calendar_ic_menu_add_event_holo_light</item>
+<item name="drawable/ic_menu_add_field_holo_light">@drawable/com_android_calendar_ic_menu_add_field_holo_light</item>
+<item name="drawable/ic_menu_cancel_holo_light">@drawable/com_android_calendar_ic_menu_cancel_holo_light</item>
+<item name="drawable/ic_menu_colorpicker_holo_dark">@drawable/com_android_calendar_ic_menu_colorpicker_holo_dark</item>
+<item name="drawable/ic_menu_colorpicker_holo_light">@drawable/com_android_calendar_ic_menu_colorpicker_holo_light</item>
+<item name="drawable/ic_menu_colorpicker_pressed">@drawable/com_android_calendar_ic_menu_colorpicker_pressed</item>
+<item name="drawable/ic_menu_compose_holo_dark">@drawable/com_android_calendar_ic_menu_compose_holo_dark</item>
+<item name="drawable/ic_menu_compose_holo_light">@drawable/com_android_calendar_ic_menu_compose_holo_light</item>
+<item name="drawable/ic_menu_compose_pressed_holo_dark">@drawable/com_android_calendar_ic_menu_compose_pressed_holo_dark</item>
+<item name="drawable/ic_menu_done_holo_light">@drawable/com_android_calendar_ic_menu_done_holo_light</item>
+<item name="drawable/ic_menu_email_holo_dark">@drawable/com_android_calendar_ic_menu_email_holo_dark</item>
+<item name="drawable/ic_menu_email_holo_light">@drawable/com_android_calendar_ic_menu_email_holo_light</item>
+<item name="drawable/ic_menu_refresh_holo_light">@drawable/com_android_calendar_ic_menu_refresh_holo_light</item>
+<item name="drawable/ic_menu_remove_field_holo_light">@drawable/com_android_calendar_ic_menu_remove_field_holo_light</item>
+<item name="drawable/ic_menu_search_holo_light">@drawable/com_android_calendar_ic_menu_search_holo_light</item>
+<item name="drawable/ic_menu_settings_holo_light">@drawable/com_android_calendar_ic_menu_settings_holo_light</item>
+<item name="drawable/ic_menu_today_holo_light">@drawable/com_android_calendar_ic_menu_today_holo_light</item>
+<item name="drawable/ic_menu_today_no_date_holo_light">@drawable/com_android_calendar_ic_menu_today_no_date_holo_light</item>
+<item name="drawable/ic_menu_today_no_date_holo_light_disabled">@drawable/com_android_calendar_ic_menu_today_no_date_holo_light_disabled</item>
+<item name="drawable/ic_menu_trash_holo_dark">@drawable/com_android_calendar_ic_menu_trash_holo_dark</item>
+<item name="drawable/ic_menu_trash_holo_light">@drawable/com_android_calendar_ic_menu_trash_holo_light</item>
+<item name="drawable/ic_menu_trash_pressed_holo_dark">@drawable/com_android_calendar_ic_menu_trash_pressed_holo_dark</item>
+<item name="drawable/ic_recurrence_bubble_disabled">@drawable/com_android_calendar_ic_recurrence_bubble_disabled</item>
+<item name="drawable/ic_recurrence_bubble_fill">@drawable/com_android_calendar_ic_recurrence_bubble_fill</item>
+<item name="drawable/ic_recurrence_bubble_outline">@drawable/com_android_calendar_ic_recurrence_bubble_outline</item>
+<item name="drawable/ic_recurrence_bubble_outline_disabled">@drawable/com_android_calendar_ic_recurrence_bubble_outline_disabled</item>
+<item name="drawable/ic_repeat_dark">@drawable/com_android_calendar_ic_repeat_dark</item>
+<item name="drawable/ic_repeat_white">@drawable/com_android_calendar_ic_repeat_white</item>
+<item name="drawable/list_focused_holo">@drawable/com_android_calendar_list_focused_holo</item>
+<item name="drawable/list_multi_left_activated_holo">@drawable/com_android_calendar_list_multi_left_activated_holo</item>
+<item name="drawable/list_multi_left_focused_holo">@drawable/com_android_calendar_list_multi_left_focused_holo</item>
+<item name="drawable/list_multi_left_pressed_holo">@drawable/com_android_calendar_list_multi_left_pressed_holo</item>
+<item name="drawable/list_multi_left_primary_holo">@drawable/com_android_calendar_list_multi_left_primary_holo</item>
+<item name="drawable/list_multi_left_secondary_holo">@drawable/com_android_calendar_list_multi_left_secondary_holo</item>
+<item name="drawable/list_pressed_holo">@drawable/com_android_calendar_list_pressed_holo</item>
+<item name="drawable/list_primary_holo">@drawable/com_android_calendar_list_primary_holo</item>
+<item name="drawable/list_secondary_holo">@drawable/com_android_calendar_list_secondary_holo</item>
+<item name="drawable/mini_calendar">@drawable/com_android_calendar_mini_calendar</item>
+<item name="drawable/minical_bg_shadow_holo_light">@drawable/com_android_calendar_minical_bg_shadow_holo_light</item>
+<item name="drawable/panel_month_event_holo_light">@drawable/com_android_calendar_panel_month_event_holo_light</item>
+<item name="drawable/snooze">@drawable/com_android_calendar_snooze</item>
+<item name="drawable/stat_notify_calendar">@drawable/com_android_calendar_stat_notify_calendar</item>
+<item name="drawable/stat_notify_calendar_multiple">@drawable/com_android_calendar_stat_notify_calendar_multiple</item>
+<item name="drawable/switch_thumb_activated_holo_light">@drawable/com_android_calendar_switch_thumb_activated_holo_light</item>
+<item name="drawable/switch_thumb_disabled_holo_light">@drawable/com_android_calendar_switch_thumb_disabled_holo_light</item>
+<item name="drawable/switch_thumb_holo_light_v2">@drawable/com_android_calendar_switch_thumb_holo_light_v2</item>
+<item name="drawable/switch_thumb_pressed_holo_light">@drawable/com_android_calendar_switch_thumb_pressed_holo_light</item>
+<item name="drawable/timeline_indicator_activated_holo_light">@drawable/com_android_calendar_timeline_indicator_activated_holo_light</item>
+<item name="drawable/timeline_indicator_holo_light">@drawable/com_android_calendar_timeline_indicator_holo_light</item>
+<item name="drawable/today_blue_week_holo_light">@drawable/com_android_calendar_today_blue_week_holo_light</item>
+<item name="drawable/toggle_underline_activated">@drawable/com_android_calendar_toggle_underline_activated</item>
+<item name="drawable/toggle_underline_normal">@drawable/com_android_calendar_toggle_underline_normal</item>
+<item name="drawable/widget_show">@drawable/com_android_calendar_widget_show</item>
+</resource-redirections>

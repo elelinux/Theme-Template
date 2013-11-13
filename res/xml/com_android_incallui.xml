@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2013 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2013 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- color -->
+
+<!-- style -->
+
+<!-- drawable -->
+<item name="drawable/business_unknown">@drawable/com_android_incallui_business_unknown</item>
+<item name="drawable/dial_background_texture">@drawable/com_android_incallui_dial_background_texture</item>
+<item name="drawable/dial_num_0_no_plus_wht">@drawable/com_android_incallui_dial_num_0_no_plus_wht</item>
+<item name="drawable/dial_num_1_no_vm_wht">@drawable/com_android_incallui_dial_num_1_no_vm_wht</item>
+<item name="drawable/dial_num_2_wht">@drawable/com_android_incallui_dial_num_2_wht</item>
+<item name="drawable/dial_num_3_wht">@drawable/com_android_incallui_dial_num_3_wht</item>
+<item name="drawable/dial_num_4_wht">@drawable/com_android_incallui_dial_num_4_wht</item>
+<item name="drawable/dial_num_5_wht">@drawable/com_android_incallui_dial_num_5_wht</item>
+<item name="drawable/dial_num_6_wht">@drawable/com_android_incallui_dial_num_6_wht</item>
+<item name="drawable/dial_num_7_wht">@drawable/com_android_incallui_dial_num_7_wht</item>
+<item name="drawable/dial_num_8_wht">@drawable/com_android_incallui_dial_num_8_wht</item>
+<item name="drawable/dial_num_9_wht">@drawable/com_android_incallui_dial_num_9_wht</item>
+<item name="drawable/dial_num_pound_wht">@drawable/com_android_incallui_dial_num_pound_wht</item>
+<item name="drawable/dial_num_star_wht">@drawable/com_android_incallui_dial_num_star_wht</item>
+<item name="drawable/ic_ab_dialer_holo_dark">@drawable/com_android_incallui_ic_ab_dialer_holo_dark</item>
+<item name="drawable/ic_active_state_dialer_holo_dark">@drawable/com_android_incallui_ic_active_state_dialer_holo_dark</item>
+<item name="drawable/ic_add_contact_holo_dark">@drawable/com_android_incallui_ic_add_contact_holo_dark</item>
+<item name="drawable/ic_bluetooth_holo_dark">@drawable/com_android_incallui_ic_bluetooth_holo_dark</item>
+<item name="drawable/ic_dialpad_holo_dark">@drawable/com_android_incallui_ic_dialpad_holo_dark</item>
+<item name="drawable/ic_groups_holo_dark">@drawable/com_android_incallui_ic_groups_holo_dark</item>
+<item name="drawable/ic_hold_pause_holo_dark">@drawable/com_android_incallui_ic_hold_pause_holo_dark</item>
+<item name="drawable/ic_in_call_bt_dk">@drawable/com_android_incallui_ic_in_call_bt_dk</item>
+<item name="drawable/ic_in_call_phone_hangup">@drawable/com_android_incallui_ic_in_call_phone_hangup</item>
+<item name="drawable/ic_in_call_touch_handle_normal">@drawable/com_android_incallui_ic_in_call_touch_handle_normal</item>
+<item name="drawable/ic_incall_switch_holo_dark">@drawable/com_android_incallui_ic_incall_switch_holo_dark</item>
+<item name="drawable/ic_lockscreen_answer_activated">@drawable/com_android_incallui_ic_lockscreen_answer_activated</item>
+<item name="drawable/ic_lockscreen_answer_normal">@drawable/com_android_incallui_ic_lockscreen_answer_normal</item>
+<item name="drawable/ic_lockscreen_decline_activated">@drawable/com_android_incallui_ic_lockscreen_decline_activated</item>
+<item name="drawable/ic_lockscreen_decline_normal">@drawable/com_android_incallui_ic_lockscreen_decline_normal</item>
+<item name="drawable/ic_merge_holo_dark">@drawable/com_android_incallui_ic_merge_holo_dark</item>
+<item name="drawable/ic_more_indicator_holo_dark">@drawable/com_android_incallui_ic_more_indicator_holo_dark</item>
+<item name="drawable/ic_mute_holo_dark">@drawable/com_android_incallui_ic_mute_holo_dark</item>
+<item name="drawable/ic_sound_bluetooth_holo_dark">@drawable/com_android_incallui_ic_sound_bluetooth_holo_dark</item>
+<item name="drawable/ic_sound_handset_holo_dark">@drawable/com_android_incallui_ic_sound_handset_holo_dark</item>
+<item name="drawable/ic_sound_holo_dark">@drawable/com_android_incallui_ic_sound_holo_dark</item>
+<item name="drawable/ic_sound_off_speakerphone_holo_dark">@drawable/com_android_incallui_ic_sound_off_speakerphone_holo_dark</item>
+<item name="drawable/ic_sound_speakerphone_holo_dark">@drawable/com_android_incallui_ic_sound_speakerphone_holo_dark</item>
+<item name="drawable/ic_split_holo_dark">@drawable/com_android_incallui_ic_split_holo_dark</item>
+<item name="drawable/ic_text_holo_dark">@drawable/com_android_incallui_ic_text_holo_dark</item>
+<item name="drawable/list_focused_holo">@drawable/com_android_incallui_list_focused_holo</item>
+<item name="drawable/list_pressed_holo_dark">@drawable/com_android_incallui_list_pressed_holo_dark</item>
+<item name="drawable/list_selector_disabled_holo_dark">@drawable/com_android_incallui_list_selector_disabled_holo_dark</item>
+<item name="drawable/picture_conference">@drawable/com_android_incallui_picture_conference</item>
+<item name="drawable/picture_dialing">@drawable/com_android_incallui_picture_dialing</item>
+<item name="drawable/picture_unknown">@drawable/com_android_incallui_picture_unknown</item>
+<item name="drawable/stat_sys_phone_call">@drawable/com_android_incallui_stat_sys_phone_call</item>
+<item name="drawable/stat_sys_phone_call_end">@drawable/com_android_incallui_stat_sys_phone_call_end</item>
+<item name="drawable/stat_sys_phone_call_on_hold">@drawable/com_android_incallui_stat_sys_phone_call_on_hold</item>
+</resource-redirections>

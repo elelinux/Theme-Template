@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2013 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2013 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+<!-- color -->
+
+<!-- style -->
+
+<!-- mipmap -->
+<item name="mipmap/ic_launcher_application">@mipmap/com_android_launcher3_ic_launcher_application</item>
+<item name="mipmap/ic_launcher_home">@mipmap/com_android_launcher3_ic_launcher_home</item>
+<item name="mipmap/ic_launcher_wallpaper">@mipmap/com_android_launcher3_ic_launcher_wallpaper</item>
+
+<!-- drawable -->
+<item name="drawable/apps_customize_bg">@drawable/com_android_launcher3_apps_customize_bg</item>
+<item name="drawable/bg_appwidget_error">@drawable/com_android_launcher3_bg_appwidget_error</item>
+<item name="drawable/bg_cling1">@drawable/com_android_launcher3_bg_cling1</item>
+<item name="drawable/bg_cling2">@drawable/com_android_launcher3_bg_cling2</item>
+<item name="drawable/bg_cling3">@drawable/com_android_launcher3_bg_cling3</item>
+<item name="drawable/bg_cling4">@drawable/com_android_launcher3_bg_cling4</item>
+<item name="drawable/cling">@drawable/com_android_launcher3_cling</item>
+<item name="drawable/cling_arrow_down">@drawable/com_android_launcher3_cling_arrow_down</item>
+<item name="drawable/cling_arrow_left">@drawable/com_android_launcher3_cling_arrow_left</item>
+<item name="drawable/cling_arrow_right">@drawable/com_android_launcher3_cling_arrow_right</item>
+<item name="drawable/cling_arrow_up">@drawable/com_android_launcher3_cling_arrow_up</item>
+<item name="drawable/cling_button">@drawable/com_android_launcher3_cling_button</item>
+<item name="drawable/cling_button_pressed">@drawable/com_android_launcher3_cling_button_pressed</item>
+<item name="drawable/custom_content_page">@drawable/com_android_launcher3_custom_content_page</item>
+<item name="drawable/focused_bg">@drawable/com_android_launcher3_focused_bg</item>
+<item name="drawable/hand">@drawable/com_android_launcher3_hand</item>
+<item name="drawable/home_press">@drawable/com_android_launcher3_home_press</item>
+<item name="drawable/ic_actionbar_accept">@drawable/com_android_launcher3_ic_actionbar_accept</item>
+<item name="drawable/ic_allapps">@drawable/com_android_launcher3_ic_allapps</item>
+<item name="drawable/ic_allapps_pressed">@drawable/com_android_launcher3_ic_allapps_pressed</item>
+<item name="drawable/ic_home_all_apps_holo_dark">@drawable/com_android_launcher3_ic_home_all_apps_holo_dark</item>
+<item name="drawable/ic_home_search_normal_holo">@drawable/com_android_launcher3_ic_home_search_normal_holo</item>
+<item name="drawable/ic_home_voice_search_holo">@drawable/com_android_launcher3_ic_home_voice_search_holo</item>
+<item name="drawable/ic_images">@drawable/com_android_launcher3_ic_images</item>
+<item name="drawable/ic_launcher_clear_active_holo">@drawable/com_android_launcher3_ic_launcher_clear_active_holo</item>
+<item name="drawable/ic_launcher_clear_normal_holo">@drawable/com_android_launcher3_ic_launcher_clear_normal_holo</item>
+<item name="drawable/ic_launcher_info_active_holo">@drawable/com_android_launcher3_ic_launcher_info_active_holo</item>
+<item name="drawable/ic_launcher_info_normal_holo">@drawable/com_android_launcher3_ic_launcher_info_normal_holo</item>
+<item name="drawable/ic_launcher_market_holo">@drawable/com_android_launcher3_ic_launcher_market_holo</item>
+<item name="drawable/ic_launcher_trashcan_active_holo">@drawable/com_android_launcher3_ic_launcher_trashcan_active_holo</item>
+<item name="drawable/ic_launcher_trashcan_normal_holo">@drawable/com_android_launcher3_ic_launcher_trashcan_normal_holo</item>
+<item name="drawable/ic_pageindicator_add">@drawable/com_android_launcher3_ic_pageindicator_add</item>
+<item name="drawable/ic_pageindicator_current">@drawable/com_android_launcher3_ic_pageindicator_current</item>
+<item name="drawable/ic_pageindicator_default">@drawable/com_android_launcher3_ic_pageindicator_default</item>
+<item name="drawable/ic_setting">@drawable/com_android_launcher3_ic_setting</item>
+<item name="drawable/ic_setting_pressed">@drawable/com_android_launcher3_ic_setting_pressed</item>
+<item name="drawable/ic_wallpaper">@drawable/com_android_launcher3_ic_wallpaper</item>
+<item name="drawable/ic_wallpaper_pressed">@drawable/com_android_launcher3_ic_wallpaper_pressed</item>
+<item name="drawable/ic_widget">@drawable/com_android_launcher3_ic_widget</item>
+<item name="drawable/ic_widget_pressed">@drawable/com_android_launcher3_ic_widget_pressed</item>
+<item name="drawable/overscroll_glow_left">@drawable/com_android_launcher3_overscroll_glow_left</item>
+<item name="drawable/overscroll_glow_right">@drawable/com_android_launcher3_overscroll_glow_right</item>
+<item name="drawable/page_hover_left_holo">@drawable/com_android_launcher3_page_hover_left_holo</item>
+<item name="drawable/page_hover_right_holo">@drawable/com_android_launcher3_page_hover_right_holo</item>
+<item name="drawable/paged_view_indicator">@drawable/com_android_launcher3_paged_view_indicator</item>
+<item name="drawable/portal_container_holo">@drawable/com_android_launcher3_portal_container_holo</item>
+<item name="drawable/portal_ring_inner_holo">@drawable/com_android_launcher3_portal_ring_inner_holo</item>
+<item name="drawable/portal_ring_inner_nolip_holo">@drawable/com_android_launcher3_portal_ring_inner_nolip_holo</item>
+<item name="drawable/portal_ring_outer_holo">@drawable/com_android_launcher3_portal_ring_outer_holo</item>
+<item name="drawable/portal_ring_rest">@drawable/com_android_launcher3_portal_ring_rest</item>
+<item name="drawable/screenpanel">@drawable/com_android_launcher3_screenpanel</item>
+<item name="drawable/screenpanel_hover">@drawable/com_android_launcher3_screenpanel_hover</item>
+<item name="drawable/search_frame">@drawable/com_android_launcher3_search_frame</item>
+<item name="drawable/tab_selected_focused_holo">@drawable/com_android_launcher3_tab_selected_focused_holo</item>
+<item name="drawable/tab_selected_holo">@drawable/com_android_launcher3_tab_selected_holo</item>
+<item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_android_launcher3_tab_selected_pressed_focused_holo</item>
+<item name="drawable/tab_selected_pressed_holo">@drawable/com_android_launcher3_tab_selected_pressed_holo</item>
+<item name="drawable/tab_unselected_focused_holo">@drawable/com_android_launcher3_tab_unselected_focused_holo</item>
+<item name="drawable/tab_unselected_holo">@drawable/com_android_launcher3_tab_unselected_holo</item>
+<item name="drawable/tab_unselected_pressed_focused_holo">@drawable/com_android_launcher3_tab_unselected_pressed_focused_holo</item>
+<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_launcher3_tab_unselected_pressed_holo</item>
+<item name="drawable/tile_picker_focused">@drawable/com_android_launcher3_tile_picker_focused</item>
+<item name="drawable/tile_picker_pressed">@drawable/com_android_launcher3_tile_picker_pressed</item>
+<item name="drawable/tile_picker_selected">@drawable/com_android_launcher3_tile_picker_selected</item>
+<item name="drawable/tile_shadow_bottom">@drawable/com_android_launcher3_tile_shadow_bottom</item>
+<item name="drawable/tile_shadow_top">@drawable/com_android_launcher3_tile_shadow_top</item>
+<item name="drawable/widget_container_holo">@drawable/com_android_launcher3_widget_container_holo</item>
+<item name="drawable/widget_resize_frame_holo">@drawable/com_android_launcher3_widget_resize_frame_holo</item>
+<item name="drawable/widget_resize_handle_bottom">@drawable/com_android_launcher3_widget_resize_handle_bottom</item>
+<item name="drawable/widget_resize_handle_left">@drawable/com_android_launcher3_widget_resize_handle_left</item>
+<item name="drawable/widget_resize_handle_right">@drawable/com_android_launcher3_widget_resize_handle_right</item>
+<item name="drawable/widget_resize_handle_top">@drawable/com_android_launcher3_widget_resize_handle_top</item>
+<item name="drawable/widget_tile">@drawable/com_android_launcher3_widget_tile</item>
+<item name="drawable/workspace_bg">@drawable/com_android_launcher3_workspace_bg</item>
+</resource-redirections>
