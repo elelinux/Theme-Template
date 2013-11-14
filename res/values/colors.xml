@@ -119,16 +119,16 @@
     <color name="white">#ffffffff</color>
 
     <!-- SYSTEMUI -->
-    <color name="batterymeter_bolt_color">#B2000000</color>
+    <color name="batterymeter_bolt_color">#B2000000</color><!-- 70% black -->
     <color name="batterymeter_charge_color">#FFFFFFFF</color>
-    <color name="batterymeter_frame_color">#66FFFFFF</color>
+    <color name="batterymeter_frame_color">#66FFFFFF</color><!-- 40% white -->
     <color name="notification_list_shadow_top">#80000000</color>
     <color name="notification_panel_scrim_color">#B0000000</color>
     <color name="notification_panel_solid_background">#ff000000</color>
     <color name="status_bar_clock_color">#FFFFFFFF</color>
     <color name="status_bar_recents_app_label_color">#ffffffff</color>
     <color name="system_bar_background_opaque">#ff000000</color>
-    <color name="system_bar_background_semi_transparent">#66000000</color>
+    <color name="system_bar_background_semi_transparent">#66000000</color><!-- 40% black -->
 
    <!-- BROWSER -->
     <color name="com_android_browser_white">#ffffffff</color>
