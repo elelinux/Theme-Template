@@ -18,6 +18,46 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="default_background">@color/com_android_camera2_default_background</item>
+<item  name="albumset_background">@color/com_android_camera2_albumset_background</item>
+<item  name="albumset_placeholder">@color/com_android_camera2_albumset_placeholder</item>
+<item  name="albumset_label_background">@color/com_android_camera2_albumset_label_background</item>
+<item  name="albumset_label_title">@color/com_android_camera2_albumset_label_title</item>
+<item  name="albumset_label_count">@color/com_android_camera2_albumset_label_count</item>
+<item  name="album_background">@color/com_android_camera2_album_background</item>
+<item  name="album_placeholder">@color/com_android_camera2_album_placeholder</item>
+<item  name="photo_background">@color/com_android_camera2_photo_background</item>
+<item  name="photo_placeholder">@color/com_android_camera2_photo_placeholder</item>
+<item  name="cache_background">@color/com_android_camera2_cache_background</item>
+<item  name="cache_placeholder">@color/com_android_camera2_cache_placeholder</item>
+<item  name="bitmap_screennail_placeholder">@color/com_android_camera2_bitmap_screennail_placeholder</item>
+<item  name="slideshow_background">@color/com_android_camera2_slideshow_background</item>
+<item  name="button_dark_transparent_background">@color/com_android_camera2_button_dark_transparent_background</item>
+<item  name="ingest_highlight_semitransparent">@color/com_android_camera2_ingest_highlight_semitransparent</item>
+<item  name="ingest_date_tile_text">@color/com_android_camera2_ingest_date_tile_text</item>
+<item  name="recording_time_elapsed_text">@color/com_android_camera2_recording_time_elapsed_text</item>
+<item  name="recording_time_remaining_text">@color/com_android_camera2_recording_time_remaining_text</item>
+<item  name="on_viewfinder_label_background_color">@color/com_android_camera2_on_viewfinder_label_background_color</item>
+<item  name="review_control_pressed_color">@color/com_android_camera2_review_control_pressed_color</item>
+<item  name="review_control_pressed_fan_color">@color/com_android_camera2_review_control_pressed_fan_color</item>
+<item  name="review_background">@color/com_android_camera2_review_background</item>
+<item  name="icon_disabled_color">@color/com_android_camera2_icon_disabled_color</item>
+<item  name="time_lapse_arc">@color/com_android_camera2_time_lapse_arc</item>
+<item  name="indicator_background">@color/com_android_camera2_indicator_background</item>
+<item  name="popup_title_color">@color/com_android_camera2_popup_title_color</item>
+<item  name="popup_background">@color/com_android_camera2_popup_background</item>
+<item  name="pano_progress_empty">@color/com_android_camera2_pano_progress_empty</item>
+<item  name="pano_progress_done">@color/com_android_camera2_pano_progress_done</item>
+<item  name="pano_progress_indication">@color/com_android_camera2_pano_progress_indication</item>
+<item  name="pano_progress_indication_fast">@color/com_android_camera2_pano_progress_indication_fast</item>
+<item  name="mode_selection_border">@color/com_android_camera2_mode_selection_border</item>
+<item  name="holo_blue_light">@color/com_android_camera2_holo_blue_light</item>
+<item  name="bright_foreground_disabled_holo_dark">@color/com_android_camera2_bright_foreground_disabled_holo_dark</item>
+<item  name="bright_foreground_holo_dark">@color/com_android_camera2_bright_foreground_holo_dark</item>
+<item  name="face_detect_start">@color/com_android_camera2_face_detect_start</item>
+<item  name="face_detect_success">@color/com_android_camera2_face_detect_success</item>
+<item  name="face_detect_fail">@color/com_android_camera2_face_detect_fail</item>
+<item  name="gray">@color/com_android_camera2_gray</item>
 
 <!-- style -->
 

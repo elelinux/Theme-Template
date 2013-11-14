@@ -18,6 +18,10 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="clock_white">@color/com_cyanogenmod_lockclock_clock_white</item>
+<item  name="clock_gray">@color/com_cyanogenmod_lockclock_clock_gray</item>
+<item  name="text_shadow">@color/com_cyanogenmod_lockclock_text_shadow</item>
+<item  name="text_shadow_opaque">@color/com_cyanogenmod_lockclock_text_shadow_opaque</item>
 
 <!-- style -->
 

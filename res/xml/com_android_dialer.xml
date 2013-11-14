@@ -18,6 +18,30 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="dialtacts_primary_text_color">@color/com_android_dialer_dialtacts_primary_text_color</item>
+<item  name="dialtacts_secondary_text_color">@color/com_android_dialer_dialtacts_secondary_text_color</item>
+<item  name="dialpad_text_color">@color/com_android_dialer_dialpad_text_color</item>
+<item  name="call_log_missed_call_highlight_color">@color/com_android_dialer_call_log_missed_call_highlight_color</item>
+<item  name="call_log_voicemail_highlight_color">@color/com_android_dialer_call_log_voicemail_highlight_color</item>
+<item  name="voicemail_playback_seek_bar_yet_to_play">@color/com_android_dialer_voicemail_playback_seek_bar_yet_to_play</item>
+<item  name="voicemail_playback_seek_bar_already_played">@color/com_android_dialer_voicemail_playback_seek_bar_already_played</item>
+<item  name="item_selected">@color/com_android_dialer_item_selected</item>
+<item  name="background_dialer_light">@color/com_android_dialer_background_dialer_light</item>
+<item  name="background_dialer_list_items">@color/com_android_dialer_background_dialer_list_items</item>
+<item  name="background_dialpad">@color/com_android_dialer_background_dialpad</item>
+<item  name="dialpad_primary_text_color">@color/com_android_dialer_dialpad_primary_text_color</item>
+<item  name="dialpad_secondary_text_color">@color/com_android_dialer_dialpad_secondary_text_color</item>
+<item  name="actionbar_background_color">@color/com_android_dialer_actionbar_background_color</item>
+<item  name="favorite_contacts_separator_color">@color/com_android_dialer_favorite_contacts_separator_color</item>
+<item  name="searchbox_background_color">@color/com_android_dialer_searchbox_background_color</item>
+<item  name="searchbox_text_color">@color/com_android_dialer_searchbox_text_color</item>
+<item  name="contact_tile_name_color">@color/com_android_dialer_contact_tile_name_color</item>
+<item  name="undo_dialogue_text_color">@color/com_android_dialer_undo_dialogue_text_color</item>
+<item  name="nofavorite_text_color">@color/com_android_dialer_nofavorite_text_color</item>
+<item  name="call_stats_incoming">@color/com_android_dialer_call_stats_incoming</item>
+<item  name="call_stats_outgoing">@color/com_android_dialer_call_stats_outgoing</item>
+<item  name="call_stats_missed">@color/com_android_dialer_call_stats_missed</item>
+<item  name="call_stats_bar_background">@color/com_android_dialer_call_stats_bar_background</item>
 
 <!-- style -->
 

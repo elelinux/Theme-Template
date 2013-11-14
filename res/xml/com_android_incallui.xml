@@ -18,6 +18,19 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="incall_callTypeSip">@color/com_android_incallui_incall_callTypeSip</item>
+<item  name="incall_call_banner_background">@color/com_android_incallui_incall_call_banner_background</item>
+<item  name="incall_secondary_info_background">@color/com_android_incallui_incall_secondary_info_background</item>
+<item  name="incall_call_banner_text_color">@color/com_android_incallui_incall_call_banner_text_color</item>
+<item  name="dtmf_dialer_display_text">@color/com_android_incallui_dtmf_dialer_display_text</item>
+<item  name="people_app_theme_color">@color/com_android_incallui_people_app_theme_color</item>
+<item  name="on_hold_dim_effect">@color/com_android_incallui_on_hold_dim_effect</item>
+<item  name="manage_conference_secondary_text_color">@color/com_android_incallui_manage_conference_secondary_text_color</item>
+<item  name="end_call_active_state">@color/com_android_incallui_end_call_active_state</item>
+<item  name="end_call_pressed_state">@color/com_android_incallui_end_call_pressed_state</item>
+<item  name="end_call_disabled_state">@color/com_android_incallui_end_call_disabled_state</item>
+<item  name="dialpad_background">@color/com_android_incallui_dialpad_background</item>
+<item  name="button_background">@color/com_android_incallui_button_background</item>
 
 <!-- style -->
 

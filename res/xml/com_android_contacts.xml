@@ -18,6 +18,29 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="quickcontact_list_divider">@color/com_android_contacts_quickcontact_list_divider</item>
+<item  name="quickcontact_list_background">@color/com_android_contacts_quickcontact_list_background</item>
+<item  name="quickcontact_tab_indicator">@color/com_android_contacts_quickcontact_tab_indicator</item>
+<item  name="quickcontact_track_background">@color/com_android_contacts_quickcontact_track_background</item>
+<item  name="quickcontact_activity_background">@color/com_android_contacts_quickcontact_activity_background</item>
+<item  name="quickcontact_name_detail_background">@color/com_android_contacts_quickcontact_name_detail_background</item>
+<item  name="background_primary">@color/com_android_contacts_background_primary</item>
+<item  name="background_social_updates">@color/com_android_contacts_background_social_updates</item>
+<item  name="section_header_text_color">@color/com_android_contacts_section_header_text_color</item>
+<item  name="detail_update_tab_text_color">@color/com_android_contacts_detail_update_tab_text_color</item>
+<item  name="detail_tab_carousel_tab_label_color">@color/com_android_contacts_detail_tab_carousel_tab_label_color</item>
+<item  name="action_bar_background">@color/com_android_contacts_action_bar_background</item>
+<item  name="action_bar_background_highlight">@color/com_android_contacts_action_bar_background_highlight</item>
+<item  name="action_bar_button_text_color">@color/com_android_contacts_action_bar_button_text_color</item>
+<item  name="stream_item_stripe_color">@color/com_android_contacts_stream_item_stripe_color</item>
+<item  name="account_container">@color/com_android_contacts_account_container</item>
+<item  name="call_detail_photo_bg">@color/com_android_contacts_call_detail_photo_bg</item>
+<item  name="call_log_divider">@color/com_android_contacts_call_log_divider</item>
+<item  name="detail_tab_carousel_tab_label_background_color">@color/com_android_contacts_detail_tab_carousel_tab_label_background_color</item>
+<item  name="photo_backdrop">@color/com_android_contacts_photo_backdrop</item>
+<item  name="photo_container">@color/com_android_contacts_photo_container</item>
+<item  name="social_widget_bg">@color/com_android_contacts_social_widget_bg</item>
+<item  name="white_text">@color/com_android_contacts_white_text</item>
 
 <!-- style -->
 

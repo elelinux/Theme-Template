@@ -18,6 +18,19 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="primary_text_color">@color/com_android_contacts_common_primary_text_color</item>
+<item  name="secondary_text_color">@color/com_android_contacts_common_secondary_text_color</item>
+<item  name="main_header_separator_color">@color/com_android_contacts_common_main_header_separator_color</item>
+<item  name="secondary_header_separator_color">@color/com_android_contacts_common_secondary_header_separator_color</item>
+<item  name="people_app_theme_color">@color/com_android_contacts_common_people_app_theme_color</item>
+<item  name="image_placeholder">@color/com_android_contacts_common_image_placeholder</item>
+<item  name="dialtacts_secondary_text_color">@color/com_android_contacts_common_dialtacts_secondary_text_color</item>
+<item  name="contact_tile_shadow_box_color">@color/com_android_contacts_common_contact_tile_shadow_box_color</item>
+<item  name="people_contact_tile_status_color">@color/com_android_contacts_common_people_contact_tile_status_color</item>
+<item  name="shortcut_overlay_text_background">@color/com_android_contacts_common_shortcut_overlay_text_background</item>
+<item  name="textColorIconOverlay">@color/com_android_contacts_common_textColorIconOverlay</item>
+<item  name="textColorIconOverlayShadow">@color/com_android_contacts_common_textColorIconOverlayShadow</item>
+<item  name="contact_tile_name_text">@color/com_android_contacts_common_contact_tile_name_text</item>
 
 <!-- style -->
 

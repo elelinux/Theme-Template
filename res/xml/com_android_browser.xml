@@ -18,23 +18,23 @@
 
 <resource-redirections>
 <!-- color -->
-    <item name="white">@color/com_android_browser_white</item>
-    <item name="black">@color/com_android_browser_black</item>
-    <item name="bookmarkWidgetHeader">@color/com_android_browser_bookmarkWidgetHeader</item>
-    <item name="bookmarkWidgetDivider">@color/com_android_browser_bookmarkWidgetDivider</item>
-    <item name="bookmarkWidgetItemBackground">@color/com_android_browser_bookmarkWidgetItemBackground</item>
-    <item name="bookmarkWidgetFolderBackground">@color/com_android_browser_bookmarkWidgetFolderBackground</item>
-    <item name="bookmarkWidgetFaviconBackground">@color/com_android_browser_bookmarkWidgetFaviconBackground</item>
-    <item name="bookmarkListFaviconBackground">@color/com_android_browser_bookmarkListFaviconBackground</item>
-    <item name="tabFaviconBackground">@color/com_android_browser_tabFaviconBackground</item>
-    <item name="tabFocusHighlight">@color/com_android_browser_tabFocusHighlight</item>
-    <item name="qcMenuBackground">@color/com_android_browser_qcMenuBackground</item>
-    <item name="qc_normal">@color/com_android_browser_qc_normal</item>
-    <item name="qc_selected">@color/com_android_browser_qc_selected</item>
-    <item name="qc_sub">@color/com_android_browser_qc_sub</item>
-    <item name="qc_tab_nr">@color/com_android_browser_qc_tab_nr</item>
-    <item name="tabViewTitleBackground">@color/com_android_browser_tabViewTitleBackground</item>
-    <item name="navtab_bg">@color/com_android_browser_navtab_bg</item>
+<item  name="white">@color/com_android_browser_white</item>
+<item  name="black">@color/com_android_browser_black</item>
+<item  name="bookmarkWidgetHeader">@color/com_android_browser_bookmarkWidgetHeader</item>
+<item  name="bookmarkWidgetDivider">@color/com_android_browser_bookmarkWidgetDivider</item>
+<item  name="bookmarkWidgetItemBackground">@color/com_android_browser_bookmarkWidgetItemBackground</item>
+<item  name="bookmarkWidgetFolderBackground">@color/com_android_browser_bookmarkWidgetFolderBackground</item>
+<item  name="bookmarkWidgetFaviconBackground">@color/com_android_browser_bookmarkWidgetFaviconBackground</item>
+<item  name="bookmarkListFaviconBackground">@color/com_android_browser_bookmarkListFaviconBackground</item>
+<item  name="tabFaviconBackground">@color/com_android_browser_tabFaviconBackground</item>
+<item  name="tabFocusHighlight">@color/com_android_browser_tabFocusHighlight</item>
+<item  name="qcMenuBackground">@color/com_android_browser_qcMenuBackground</item>
+<item  name="qc_normal">@color/com_android_browser_qc_normal</item>
+<item  name="qc_selected">@color/com_android_browser_qc_selected</item>
+<item  name="qc_sub">@color/com_android_browser_qc_sub</item>
+<item  name="qc_tab_nr">@color/com_android_browser_qc_tab_nr</item>
+<item  name="tabViewTitleBackground">@color/com_android_browser_tabViewTitleBackground</item>
+<item  name="navtab_bg">@color/com_android_browser_navtab_bg</item>
 
 <!-- style -->
 

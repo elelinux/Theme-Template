@@ -18,6 +18,45 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="class_zero_background">@color/com_android_mms_class_zero_background</item>
+<item  name="text_color_red">@color/com_android_mms_text_color_red</item>
+<item  name="text_color_black">@color/com_android_mms_text_color_black</item>
+<item  name="text_hairline">@color/com_android_mms_text_hairline</item>
+<item  name="message_count_color">@color/com_android_mms_message_count_color</item>
+<item  name="timestamp_color">@color/com_android_mms_timestamp_color</item>
+<item  name="unread_bgcolor">@color/com_android_mms_unread_bgcolor</item>
+<item  name="read_bgcolor">@color/com_android_mms_read_bgcolor</item>
+<item  name="widget_sender_text_color_read">@color/com_android_mms_widget_sender_text_color_read</item>
+<item  name="widget_sender_text_color_unread">@color/com_android_mms_widget_sender_text_color_unread</item>
+<item  name="widget_subject_text_color_read">@color/com_android_mms_widget_subject_text_color_read</item>
+<item  name="widget_subject_text_color_unread">@color/com_android_mms_widget_subject_text_color_unread</item>
+<item  name="translucent_white">@color/com_android_mms_translucent_white</item>
+<item  name="banner_item_transparent">@color/com_android_mms_banner_item_transparent</item>
+<item  name="banner_item_activated">@color/com_android_mms_banner_item_activated</item>
+<item  name="banner_item_selected">@color/com_android_mms_banner_item_selected</item>
+<item  name="banner_item_pressed">@color/com_android_mms_banner_item_pressed</item>
+<item  name="text_shadow_color_ligh">@color/com_android_mms_text_shadow_color_ligh</item>
+<item  name="solid_white">@color/com_android_mms_solid_white</item>
+<item  name="action_bar_button_text_color">@color/com_android_mms_action_bar_button_text_color</item>
+<item  name="compose_message_edit_text">@color/com_android_mms_compose_message_edit_text</item>
+<item  name="compose_message_text_counter">@color/com_android_mms_compose_message_text_counter</item>
+<item  name="actionbar_text">@color/com_android_mms_actionbar_text</item>
+<item  name="delete_thread_dialog">@color/com_android_mms_delete_thread_dialog</item>
+<item  name="delivery_report_header">@color/com_android_mms_delivery_report_header</item>
+<item  name="delivery_report_recipient">@color/com_android_mms_delivery_report_recipient</item>
+<item  name="delivery_report_status">@color/com_android_mms_delivery_report_status</item>
+<item  name="delivery_report_date">@color/com_android_mms_delivery_report_date</item>
+<item  name="button_text">@color/com_android_mms_button_text</item>
+<item  name="message_received">@color/com_android_mms_message_received</item>
+<item  name="message_sent">@color/com_android_mms_message_sent</item>
+<item  name="widget_unread_text">@color/com_android_mms_widget_unread_text</item>
+<item  name="widget_loading">@color/com_android_mms_widget_loading</item>
+<item  name="background">@color/com_android_mms_background</item>
+<item  name="darkgray_backgrounds">@color/com_android_mms_darkgray_backgrounds</item>
+<item  name="quickmessage_body_dark_bg">@color/com_android_mms_quickmessage_body_dark_bg</item>
+<item  name="quickmessage_body_light_bg">@color/com_android_mms_quickmessage_body_light_bg</item>
+<item  name="dividers">@color/com_android_mms_dividers</item>
+<item  name="transparent">@color/com_android_mms_transparent</item>
 
 <!-- style -->
 

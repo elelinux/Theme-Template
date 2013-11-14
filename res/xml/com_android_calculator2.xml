@@ -18,6 +18,22 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="magic_flame">@color/com_android_calculator2_magic_flame</item>
+<item  name="button_text">@color/com_android_calculator2_button_text</item>
+<item  name="button_hint_text">@color/com_android_calculator2_button_hint_text</item>
+<item  name="button_disabled_text_color">@color/com_android_calculator2_button_disabled_text_color</item>
+<item  name="button_text_light">@color/com_android_calculator2_button_text_light</item>
+<item  name="button_disabled_text_color_light">@color/com_android_calculator2_button_disabled_text_color_light</item>
+<item  name="button_pressed_text_light">@color/com_android_calculator2_button_pressed_text_light</item>
+<item  name="pressed_color">@color/com_android_calculator2_pressed_color</item>
+<item  name="pressed_color_light">@color/com_android_calculator2_pressed_color_light</item>
+<item  name="history_input">@color/com_android_calculator2_history_input</item>
+<item  name="history_input_light">@color/com_android_calculator2_history_input_light</item>
+<item  name="history_result">@color/com_android_calculator2_history_result</item>
+<item  name="history_result_light">@color/com_android_calculator2_history_result_light</item>
+<item  name="background">@color/com_android_calculator2_background</item>
+<item  name="background_light">@color/com_android_calculator2_background_light</item>
+<item  name="graph_color">@color/com_android_calculator2_graph_color</item>
 
 <!-- style -->
 

@@ -18,6 +18,37 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="ampm_off">@color/com_android_deskclock_ampm_off</item>
+<item  name="ampm_on">@color/com_android_deskclock_ampm_on</item>
+<item  name="time_text_color">@color/com_android_deskclock_time_text_color</item>
+<item  name="ampm_text_color">@color/com_android_deskclock_ampm_text_color</item>
+<item  name="screen_saver_color">@color/com_android_deskclock_screen_saver_color</item>
+<item  name="screen_saver_dim_color">@color/com_android_deskclock_screen_saver_dim_color</item>
+<item  name="action_bar_button_text_color">@color/com_android_deskclock_action_bar_button_text_color</item>
+<item  name="dialog_gray">@color/com_android_deskclock_dialog_gray</item>
+<item  name="black">@color/com_android_deskclock_black</item>
+<item  name="blackish">@color/com_android_deskclock_blackish</item>
+<item  name="blackish_selected">@color/com_android_deskclock_blackish_selected</item>
+<item  name="blackish_trans">@color/com_android_deskclock_blackish_trans</item>
+<item  name="white">@color/com_android_deskclock_white</item>
+<item  name="red">@color/com_android_deskclock_red</item>
+<item  name="gray">@color/com_android_deskclock_gray</item>
+<item  name="transparent">@color/com_android_deskclock_transparent</item>
+<item  name="transparent_white">@color/com_android_deskclock_transparent_white</item>
+<item  name="alarm_whiteish">@color/com_android_deskclock_alarm_whiteish</item>
+<item  name="main_button_normal">@color/com_android_deskclock_main_button_normal</item>
+<item  name="main_button_selected">@color/com_android_deskclock_main_button_selected</item>
+<item  name="main_button_red_normal">@color/com_android_deskclock_main_button_red_normal</item>
+<item  name="main_button_red_selected">@color/com_android_deskclock_main_button_red_selected</item>
+<item  name="clock_red">@color/com_android_deskclock_clock_red</item>
+<item  name="clock_white">@color/com_android_deskclock_clock_white</item>
+<item  name="clock_gray">@color/com_android_deskclock_clock_gray</item>
+<item  name="clock_blue">@color/com_android_deskclock_clock_blue</item>
+<item  name="notification_bg">@color/com_android_deskclock_notification_bg</item>
+<item  name="alarm_selected_color">@color/com_android_deskclock_alarm_selected_color</item>
+<item  name="notification_template_icon_bg">@color/com_android_deskclock_notification_template_icon_bg</item>
+<item  name="notification_template_icon_low_bg">@color/com_android_deskclock_notification_template_icon_low_bg</item>
+<item  name="alarm_timeline_color">@color/com_android_deskclock_alarm_timeline_color</item>
 
 <!-- style -->
 

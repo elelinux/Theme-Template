@@ -18,6 +18,18 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="delete_target_hover_tint">@color/com_android_launcher3_delete_target_hover_tint</item>
+<item  name="info_target_hover_tint">@color/com_android_launcher3_info_target_hover_tint</item>
+<item  name="bubble_dark_background">@color/com_android_launcher3_bubble_dark_background</item>
+<item  name="appwidget_error_color">@color/com_android_launcher3_appwidget_error_color</item>
+<item  name="workspace_all_apps_and_delete_zone_text_color">@color/com_android_launcher3_workspace_all_apps_and_delete_zone_text_color</item>
+<item  name="workspace_all_apps_and_delete_zone_text_shadow_color">@color/com_android_launcher3_workspace_all_apps_and_delete_zone_text_shadow_color</item>
+<item  name="workspace_icon_text_color">@color/com_android_launcher3_workspace_icon_text_color</item>
+<item  name="apps_customize_icon_text_color">@color/com_android_launcher3_apps_customize_icon_text_color</item>
+<item  name="wallpaper_picker_translucent_gray">@color/com_android_launcher3_wallpaper_picker_translucent_gray</item>
+<item  name="folder_items_text_color">@color/com_android_launcher3_folder_items_text_color</item>
+<item  name="outline_color">@color/com_android_launcher3_outline_color</item>
+<item  name="first_run_cling_circle_background_color">@color/com_android_launcher3_first_run_cling_circle_background_color</item>
 
 <!-- style -->
 

@@ -18,6 +18,32 @@
 
 <resource-redirections>
 <!-- color -->
+<item  name="black">@color/com_android_settings_black</item>
+<item  name="red">@color/com_android_settings_red</item>
+<item  name="memory_used">@color/com_android_settings_memory_used</item>
+<item  name="memory_avail">@color/com_android_settings_memory_avail</item>
+<item  name="memory_apps_usage">@color/com_android_settings_memory_apps_usage</item>
+<item  name="memory_downloads">@color/com_android_settings_memory_downloads</item>
+<item  name="memory_dcim">@color/com_android_settings_memory_dcim</item>
+<item  name="memory_music">@color/com_android_settings_memory_music</item>
+<item  name="memory_cache">@color/com_android_settings_memory_cache</item>
+<item  name="memory_misc">@color/com_android_settings_memory_misc</item>
+<item  name="memory_user_light">@color/com_android_settings_memory_user_light</item>
+<item  name="memory_user_dark">@color/com_android_settings_memory_user_dark</item>
+<item  name="crypt_keeper_clock_background">@color/com_android_settings_crypt_keeper_clock_background</item>
+<item  name="crypt_keeper_clock_foreground">@color/com_android_settings_crypt_keeper_clock_foreground</item>
+<item  name="crypt_keeper_clock_am_pm">@color/com_android_settings_crypt_keeper_clock_am_pm</item>
+<item  name="divider_color">@color/com_android_settings_divider_color</item>
+<item  name="title_color">@color/com_android_settings_title_color</item>
+<item  name="setup_divider_color_dark">@color/com_android_settings_setup_divider_color_dark</item>
+<item  name="setup_divider_color_light">@color/com_android_settings_setup_divider_color_light</item>
+<item  name="circle_avatar_frame_color">@color/com_android_settings_circle_avatar_frame_color</item>
+<item  name="circle_avatar_frame_shadow_color">@color/com_android_settings_circle_avatar_frame_shadow_color</item>
+<item  name="circle_avatar_frame_pressed_color">@color/com_android_settings_circle_avatar_frame_pressed_color</item>
+<item  name="auto_brightness_preview_background">@color/com_android_settings_auto_brightness_preview_background</item>
+<item  name="auto_brightness_preview_foreground">@color/com_android_settings_auto_brightness_preview_foreground</item>
+<item  name="auto_brightness_preview_markers">@color/com_android_settings_auto_brightness_preview_markers</item>
+<item  name="auto_brightness_preview_grid">@color/com_android_settings_auto_brightness_preview_grid</item>
 
 <!-- style -->
 
